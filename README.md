@@ -1,7 +1,7 @@
 # FMCG-Supply-Chain-Optimization-Report
 
 - Project Title: FMCG Supply Chain Optimization
-- Data Visualization Tool: Tableau
+- Data Visualization Tool: Tableau & Excel (Power Query)
 - Datasets Source: [Quantum Analytics](https://quantumanalyticsco.org/)
 
 An FMCG company entered the instant noodles business two years back. Their higher management has noticed that there is a missing match in the demand and supply. Where the demand is high, supply is low and where the demand is low, supply is high. In both ways, it is an inventory cost loss to the company; hence, the higher management wants to optimize the supply quantity in each warehouse in the entire country.
